@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gyusang (Kevin) Hwang"
+  site-url: "https://gyusanghwang.github.io"
+
+  navbar:
+    background: "#9E1B34"
+    foreground: "white"
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+  page-footer:
+    left: "© 2026 Gyusang Hwang"
+    border: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: full

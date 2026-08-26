@@ -1,0 +1,221 @@
+---
+title: "Publications"
+---
+
+::::: {.site-layout}
+
+:::: {.profile-column}
+
+{{< include _profile.qmd >}}
+
+
+::: {.sidebar-research}
+
+<div class="sidebar-section-title">Research Interests</div>
+
+<div class="sidebar-research-item">
+<strong>Event Impacts</strong>
+<span>Economic · Social · Community Outcomes</span>
+</div>
+
+<div class="sidebar-research-item">
+<strong>Socio-Spatial Dynamics</strong>
+<span>Accessibility · Spatial Inequality · Public Policy</span>
+</div>
+
+<div class="sidebar-research-item">
+<strong>Digital Consumer Behavior</strong>
+<span>Online Reviews · Digital Tipping · Technology-Mediated Services</span>
+</div>
+
+:::
+
+::::
+
+
+:::: {.main-column}
+
+# Publications
+
+## Peer-Reviewed Publication
+
+::: {.publication-entry}
+
+### Restaurant Week Paradox: From Relation to Transaction in Online Reviews
+
+<div class="publication-authors">
+Yang Yang, Qianwen Yin, <strong>Gyusang Hwang</strong>, Sai Liang, & Dejin Yang
+</div>
+
+<div class="publication-journal">
+<em>International Journal of Contemporary Hospitality Management</em>, 38(7), 2140–2160, 2026
+</div>
+
+::: {.publication-links}
+
+[DOI](https://doi.org/10.1108/IJCHM-07-2025-1124)
+
+:::
+
+:::
+
+
+## Under Review
+
+::: {.publication-entry}
+
+### Feast or Famine: How Events Reshape Restaurant Spending
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+<em>Tourism Geographies</em> · Special Issue on AI and Big Data in Tourism
+</div>
+
+<div class="publication-status">
+4th-round revision
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### When Crowds Converge: The Link between Events and Crime
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+<em>Tourism Management</em>
+</div>
+
+<div class="publication-status">
+4th-round revision
+</div>
+
+:::
+
+
+## Research in Progress
+
+::: {.publication-entry}
+
+### Institutional Calibration: From Connoisseur to Auditor
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+Target: <em>Annals of Tourism Research</em>
+</div>
+
+<div class="publication-status">
+Finalizing for submission
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Beyond Service Quality: A Meta-analytic Review of Tipping Determinants
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong>, Xue Huang, & Yang Yang
+</div>
+
+<div class="publication-journal">
+Target: <em>International Journal of Hospitality Management</em>
+</div>
+
+<div class="publication-status">
+Manuscript drafting
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Community Event Desert: Identifying Determinants of Cultural and Social Inequality in Community Leisure
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong>, Yang Yang, & Soyoung Park
+</div>
+
+<div class="publication-journal">
+Target: <em>Annals of Tourism Research</em>
+</div>
+
+<div class="publication-status">
+Manuscript drafting
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### How Far Do Events Travel?: Spatial Decay in Event-Driven Restaurant Revenue Spillovers
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+Target: <em>Tourism Management</em>
+</div>
+
+<div class="publication-status">
+Manuscript drafting
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Wage, Tips, and Well-Being: A Multi-method Approach to Understanding Compensation Policies
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong>, K. P. S. Tan, Yang Yang, & Y. Liu
+</div>
+
+<div class="publication-journal">
+Target: <em>International Journal of Hospitality Management</em>
+</div>
+
+<div class="publication-status">
+Data collection
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Timing the Tip: Investigating Temporal Distance and Post-Service Tipping
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong>, Wangoo Lee, & Yang Yang
+</div>
+
+<div class="publication-journal">
+Target: <em>International Journal of Hospitality Management</em>
+</div>
+
+<div class="publication-status">
+Data collection
+</div>
+
+:::
+
+
+::::
+
+:::::

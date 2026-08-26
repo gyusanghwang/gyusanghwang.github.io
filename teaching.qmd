@@ -1,0 +1,103 @@
+---
+title: "Teaching"
+---
+
+::::: {.site-layout}
+
+:::: {.profile-column}
+
+{{< include _profile.qmd >}}
+
+::::
+
+
+:::: {.main-column}
+
+# Teaching
+
+My teaching connects academic concepts with real-world decision making in tourism and hospitality. Drawing on quantitative training and industry experience, I emphasize practical application, analytical reasoning, and active student engagement.
+
+
+## Course Instruction
+
+::: {.teaching-entry}
+
+### THM 3396 · Marketing in Tourism & Hospitality Management
+
+<div class="teaching-meta">
+School of Sport, Tourism and Hospitality Management · Temple University · Spring 2026
+</div>
+
+- Solo Instructor of Record · Face-to-face
+- Writing-intensive course
+- **Student evaluation: 4.35 / 5**
+
+:::
+
+
+::: {.teaching-entry}
+
+### STHM 1115 · Foundations of Excel for Sport and Tourism
+
+<div class="teaching-meta">
+School of Sport, Tourism and Hospitality Management · Temple University · Fall 2025
+</div>
+
+- Solo Instructor of Record · Face-to-face
+- Applied Excel and data-analysis instruction for sport, tourism, and hospitality contexts
+- **Student evaluation: 4.55 / 5**
+
+:::
+
+
+## Guest Lecture
+
+::: {.teaching-entry}
+
+### THM 3396 · Marketing in Tourism & Hospitality Management
+
+<div class="teaching-meta">
+School of Sport, Tourism and Hospitality Management · Temple University · Fall 2025
+</div>
+
+- Guest lecture: **Communications & Online Marketing**
+- Face-to-face
+
+:::
+
+
+## Teaching Assistant Experience
+
+::: {.teaching-entry}
+
+### Urban Social Geography
+
+<div class="teaching-meta">
+University of Seoul · Spring 2022
+</div>
+
+- Teaching Assistant
+
+:::
+
+
+## Teaching Development
+
+### Certificates
+
+- **Accessible Temple Training** · Center for the Advancement of Teaching, Temple University · 2026
+- **Fox Online Teaching Certificate** · Fox School of Business, Temple University · 2026
+- **Teaching Academy Certificate** · Fox School of Business, Temple University · 2025
+
+### Selected Training
+
+- Writing-Intensive Course Workshop Series · 2025 & 2026
+- Immersive Simulations & Gamification: Engaging Learners in the Digital Age · 2025
+- Neurodiversity: What It Is, Why It Matters, and How It Might Show Up in Your Classroom · 2025
+- Glazed (Over) and Confused: Sparking Student Engagement in the Classroom · 2025
+- Teaching with Zoom: New Faculty and TAs · 2025
+
+
+::::
+
+:::::

@@ -1,0 +1,170 @@
+---
+title: "About"
+---
+
+::::: {.site-layout}
+
+:::: {.profile-column}
+
+{{< include _profile.qmd >}}
+
+::::
+
+
+:::: {.main-column}
+
+# Gyusang (Kevin) Hwang
+
+I am Gyusang (Kevin) Hwang, a Ph.D. Candidate in Tourism & Hospitality Management at Temple University's Fox School of Business. My academic work reflects an integrated pipeline of industry experience, research, and teaching. Professional experience across business travel and MICE, mega-events, and hospitality operations informs the questions I examine; I investigate these questions using large-scale data, econometrics, and spatial analytics; and I bring these perspectives back into the classroom through applied, industry-relevant teaching.
+
+
+## Academic Background
+
+:::: {.background-section}
+
+::: {.background-item}
+
+![](images/logos/fox.png){.background-logo-img}
+
+<div class="background-text">
+
+**Temple University**  
+Ph.D. in Business Administration · Tourism & Hospitality Management  
+<span class="background-meta">Fox School of Business · School of Sport, Tourism and Hospitality Management · Temple Presidential Fellow · 2023–2027</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/uos.png){.background-logo-img}
+
+<div class="background-text">
+
+**University of Seoul**  
+M.S. in Urban Sociology  
+<span class="background-meta">Seoul, South Korea · 2020–2023</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/khu.png){.background-logo-img}
+
+<div class="background-text">
+
+**Kyung Hee University**  
+B.S. in Convention Management & Business Administration  
+<span class="background-meta">Seoul, South Korea · 2011–2019</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/mci.png){.background-logo-img}
+
+<div class="background-text">
+
+**Management Center Innsbruck**  
+Exchange Student · Department of Tourism  
+<span class="background-meta">Innsbruck, Austria · 2016</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/ucf.png){.background-logo-img}
+
+<div class="background-text">
+
+**University of Central Florida**  
+Exchange Student · Rosen College of Hospitality Management  
+<span class="background-meta">Orlando, Florida · 2015</span>
+
+</div>
+
+:::
+
+::::
+
+
+## Professional Experience
+
+:::: {.background-section .professional-section}
+
+::: {.background-item}
+
+![](images/logos/hyundai-dreamtour.png){.background-logo-img}
+
+<div class="background-text">
+
+**Hyundai Dream Tour**  
+Assistant Manager  
+<span class="background-meta">MICE · Chartered Flights · Strategic Sales · 2018–2021</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/pyeongchang2018.png){.background-logo-img}
+
+<div class="background-text">
+
+**PyeongChang 2018**  
+Project Manager · Accreditation  
+<span class="background-meta">Olympic & Paralympic Games Organizing Committee · 2016–2018</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/disney.png){.background-logo-img}
+
+<div class="background-text">
+
+**Walt Disney World Resort**  
+Intern · Magic Kingdom Park  
+<span class="background-meta">Orlando, Florida · 2015</span>
+
+</div>
+
+:::
+
+
+::: {.background-item}
+
+![](images/logos/lee-convention.png){.background-logo-img}
+
+<div class="background-text">
+
+**LEE Convention Co., Ltd.**  
+Research Intern  
+<span class="background-meta">Busan, South Korea · 2014</span>
+
+</div>
+
+:::
+
+::::
+
+
+::::
+
+:::::

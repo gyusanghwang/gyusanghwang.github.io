@@ -1,0 +1,21 @@
+---
+title: "Industry Experience"
+---
+
+::: {.site-layout}
+
+::: {.profile-column}
+{{< include _profile.qmd >}}
+:::
+
+::: {.main-column}
+
+# Industry Experience
+
+Your content goes here.
+
+:::
+
+:::
+
+Industry experience content coming soon.

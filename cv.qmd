@@ -1,0 +1,27 @@
+---
+title: "Curriculum Vitae"
+---
+
+::::: {.site-layout}
+
+:::: {.profile-column}
+
+{{< include _profile.qmd >}}
+
+::::
+
+:::: {.main-column}
+
+# Curriculum Vitae
+
+A current version of my curriculum vitae is available below.
+
+::: {.cv-actions}
+
+[View / Download CV](files/Gyusang_Hwang_CV.pdf)
+
+:::
+
+::::
+
+:::::
