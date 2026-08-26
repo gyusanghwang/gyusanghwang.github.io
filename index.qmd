@@ -15,9 +15,9 @@ title: "About"
 
 # Gyusang (Kevin) Hwang
 
-I am a Ph.D. Candidate in Tourism & Hospitality Management at Temple University's Fox School of Business. My work integrates **industry experience, research, and teaching**, using large-scale data, econometrics, and spatial analytics to examine tourism, hospitality, and event phenomena.
+I am a Ph.D. Candidate in Tourism & Hospitality Management at Temple University's Fox School of Business. My work integrates **industry experience, research, and teaching**, using large-scale data, econometrics, and spatial analytics to examine questions across tourism, hospitality, and events.
 
-Before entering academia, I worked across business travel and MICE, mega-events, and hospitality operations. These experiences continue to inform the questions I study and the applied perspectives I bring into the classroom.
+Before entering academia, I worked across business travel and MICE, mega-events, and hospitality operations. These experiences continue to shape the questions I study and the applied perspectives I bring into the classroom.
 
 ::: {.job-market-note}
 **2026–2027 Academic Job Market**  
@@ -237,11 +237,11 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
 
         <img
           src="images/logos/pyeongchang2018.png"
-          alt="PyeongChang 2018 Olympic and Paralympic Games"
+          alt="PyeongChang 2018 Organizing Committee"
           class="milestone-logo">
 
         <div class="milestone-institution">
-          Olympic & Paralympic Games Organizing Committee
+          PyeongChang 2018 Organizing Committee
         </div>
 
       </div>
@@ -399,7 +399,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
 
         <img
           src="images/logos/lee-convention.png"
-          alt="LEE Convention"
+          alt="LEE Convention Co., Ltd."
           class="milestone-logo">
 
         <div class="milestone-institution">
