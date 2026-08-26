@@ -14,14 +14,14 @@ website:
       - href: index.qmd
         text: About
       - href: publications.qmd
-        text: Publications
+        text: Research
       - href: teaching.qmd
         text: Teaching
       - href: cv.qmd
         text: CV
 
   page-footer:
-    left: "© 2026 Gyusang Hwang"
+    left: "© 2026 Gyusang (Kevin) Hwang"
     border: true
 
 format:

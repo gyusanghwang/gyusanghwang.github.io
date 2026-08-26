@@ -15,155 +15,399 @@ title: "About"
 
 # Gyusang (Kevin) Hwang
 
-I am Gyusang (Kevin) Hwang, a Ph.D. Candidate in Tourism & Hospitality Management at Temple University's Fox School of Business. My academic work reflects an integrated pipeline of industry experience, research, and teaching. Professional experience across business travel and MICE, mega-events, and hospitality operations informs the questions I examine; I investigate these questions using large-scale data, econometrics, and spatial analytics; and I bring these perspectives back into the classroom through applied, industry-relevant teaching.
+I am a Ph.D. Candidate in Tourism & Hospitality Management at Temple University's Fox School of Business. My work integrates **industry experience, research, and teaching**, using large-scale data, econometrics, and spatial analytics to examine tourism, hospitality, and event phenomena.
 
+Before entering academia, I worked across business travel and MICE, mega-events, and hospitality operations. These experiences continue to inform the questions I study and the applied perspectives I bring into the classroom.
 
-## Academic Background
-
-:::: {.background-section}
-
-::: {.background-item}
-
-![](images/logos/fox.png){.background-logo-img}
-
-<div class="background-text">
-
-**Temple University**  
-Ph.D. in Business Administration · Tourism & Hospitality Management  
-<span class="background-meta">Fox School of Business · School of Sport, Tourism and Hospitality Management · Temple Presidential Fellow · 2023–2027</span>
-
-</div>
-
+::: {.job-market-note}
+**2026–2027 Academic Job Market**  
+I am currently seeking faculty opportunities in tourism, hospitality, and related business disciplines.
 :::
 
 
-::: {.background-item}
+## Academic & Professional Journey
 
-![](images/logos/uos.png){.background-logo-img}
+```{=html}
 
-<div class="background-text">
-
-**University of Seoul**  
-M.S. in Urban Sociology  
-<span class="background-meta">Seoul, South Korea · 2020–2023</span>
-
+<div class="milestone-header">
+  <div class="milestone-heading academic">Academic</div>
+  <div class="milestone-heading year">Year</div>
+  <div class="milestone-heading industry">Industry</div>
 </div>
 
-:::
+<div class="milestone-timeline">
 
 
-::: {.background-item}
+  <!-- ======================================================
+       2027 · TEMPLE UNIVERSITY
+       ====================================================== -->
 
-![](images/logos/khu.png){.background-logo-img}
+  <div class="milestone-row">
 
-<div class="background-text">
+    <div class="milestone-card academic-card">
 
-**Kyung Hee University**  
-B.S. in Convention Management & Business Administration  
-<span class="background-meta">Seoul, South Korea · 2011–2019</span>
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/fox.png"
+          alt="Temple University Fox School of Business"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          Temple University
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2023–2027
+      </div>
+
+      <div class="milestone-role">
+        Ph.D. in Business Administration
+      </div>
+
+      <div class="milestone-meta">
+        Tourism & Hospitality Management · Presidential Fellow · Expected May 2027
+      </div>
+
+    </div>
+
+    <div class="milestone-year">
+      <span>2027</span>
+    </div>
+
+    <div class="milestone-empty"></div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2023 · UNIVERSITY OF SEOUL
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-card academic-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/uos.png"
+          alt="University of Seoul"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          University of Seoul
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2020–2023
+      </div>
+
+      <div class="milestone-role">
+        M.S. in Urban Sociology
+      </div>
+
+      <div class="milestone-meta">
+        Seoul, South Korea
+      </div>
+
+    </div>
+
+    <div class="milestone-year">
+      <span>2023</span>
+    </div>
+
+    <div class="milestone-empty"></div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2021 · HYUNDAI DREAM TOUR
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-empty"></div>
+
+    <div class="milestone-year">
+      <span>2021</span>
+    </div>
+
+    <div class="milestone-card industry-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/hyundai-dreamtour.png"
+          alt="Hyundai Dream Tour"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          Hyundai Dream Tour
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2018–2021
+      </div>
+
+      <div class="milestone-role">
+        Assistant Manager
+      </div>
+
+      <div class="milestone-meta">
+        MICE · Chartered Flights · Strategic Sales
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2019 · KYUNG HEE UNIVERSITY
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-card academic-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/khu.png"
+          alt="Kyung Hee University"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          Kyung Hee University
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2011–2019
+      </div>
+
+      <div class="milestone-role">
+        B.S. in Convention Management & Business Administration
+      </div>
+
+      <div class="milestone-meta">
+        Seoul, South Korea
+      </div>
+
+    </div>
+
+    <div class="milestone-year">
+      <span>2019</span>
+    </div>
+
+    <div class="milestone-empty"></div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2018 · PYEONGCHANG
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-empty"></div>
+
+    <div class="milestone-year">
+      <span>2018</span>
+    </div>
+
+    <div class="milestone-card industry-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/pyeongchang2018.png"
+          alt="PyeongChang 2018"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          PyeongChang 2018
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2016–2018
+      </div>
+
+      <div class="milestone-role">
+        Project Manager · Accreditation
+      </div>
+
+      <div class="milestone-meta">
+        Olympic & Paralympic Games Organizing Committee
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2016 · MANAGEMENT CENTER INNSBRUCK
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-card academic-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/mci.png"
+          alt="Management Center Innsbruck"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          Management Center Innsbruck
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2016
+      </div>
+
+      <div class="milestone-role">
+        Exchange Student · Department of Tourism
+      </div>
+
+      <div class="milestone-meta">
+        Innsbruck, Austria
+      </div>
+
+    </div>
+
+    <div class="milestone-year">
+      <span>2016</span>
+    </div>
+
+    <div class="milestone-empty"></div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2015 · UCF + WALT DISNEY WORLD
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-card academic-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/ucf.png"
+          alt="University of Central Florida"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          University of Central Florida
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2015
+      </div>
+
+      <div class="milestone-role">
+        Exchange Student · Rosen College
+      </div>
+
+      <div class="milestone-meta">
+        Orlando, Florida
+      </div>
+
+    </div>
+
+    <div class="milestone-year">
+      <span>2015</span>
+    </div>
+
+    <div class="milestone-card industry-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/disney.png"
+          alt="Walt Disney World Resort"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          Walt Disney World Resort
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2015
+      </div>
+
+      <div class="milestone-role">
+        Intern · Magic Kingdom Park
+      </div>
+
+      <div class="milestone-meta">
+        Orlando, Florida
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- ======================================================
+       2014 · LEE CONVENTION
+       ====================================================== -->
+
+  <div class="milestone-row">
+
+    <div class="milestone-empty"></div>
+
+    <div class="milestone-year">
+      <span>2014</span>
+    </div>
+
+    <div class="milestone-card industry-card">
+
+      <div class="milestone-card-header">
+        <img
+          src="images/logos/lee-convention.png"
+          alt="LEE Convention"
+          class="milestone-logo">
+
+        <div class="milestone-institution">
+          LEE Convention Co., Ltd.
+        </div>
+      </div>
+
+      <div class="milestone-date">
+        2014
+      </div>
+
+      <div class="milestone-role">
+        Research Intern
+      </div>
+
+      <div class="milestone-meta">
+        Busan, South Korea
+      </div>
+
+    </div>
+
+  </div>
+
 
 </div>
-
-:::
-
-
-::: {.background-item}
-
-![](images/logos/mci.png){.background-logo-img}
-
-<div class="background-text">
-
-**Management Center Innsbruck**  
-Exchange Student · Department of Tourism  
-<span class="background-meta">Innsbruck, Austria · 2016</span>
-
-</div>
-
-:::
-
-
-::: {.background-item}
-
-![](images/logos/ucf.png){.background-logo-img}
-
-<div class="background-text">
-
-**University of Central Florida**  
-Exchange Student · Rosen College of Hospitality Management  
-<span class="background-meta">Orlando, Florida · 2015</span>
-
-</div>
-
-:::
-
-::::
-
-
-## Professional Experience
-
-:::: {.background-section .professional-section}
-
-::: {.background-item}
-
-![](images/logos/hyundai-dreamtour.png){.background-logo-img}
-
-<div class="background-text">
-
-**Hyundai Dream Tour**  
-Assistant Manager  
-<span class="background-meta">MICE · Chartered Flights · Strategic Sales · 2018–2021</span>
-
-</div>
-
-:::
-
-
-::: {.background-item}
-
-![](images/logos/pyeongchang2018.png){.background-logo-img}
-
-<div class="background-text">
-
-**PyeongChang 2018**  
-Project Manager · Accreditation  
-<span class="background-meta">Olympic & Paralympic Games Organizing Committee · 2016–2018</span>
-
-</div>
-
-:::
-
-
-::: {.background-item}
-
-![](images/logos/disney.png){.background-logo-img}
-
-<div class="background-text">
-
-**Walt Disney World Resort**  
-Intern · Magic Kingdom Park  
-<span class="background-meta">Orlando, Florida · 2015</span>
-
-</div>
-
-:::
-
-
-::: {.background-item}
-
-![](images/logos/lee-convention.png){.background-logo-img}
-
-<div class="background-text">
-
-**LEE Convention Co., Ltd.**  
-Research Intern  
-<span class="background-meta">Busan, South Korea · 2014</span>
-
-</div>
-
-:::
-
-::::
-
+```
 
 ::::
 

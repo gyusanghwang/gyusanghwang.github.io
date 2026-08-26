@@ -1,140 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+/* ============================================================
+   Fonts
+   ============================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;500;600;700&display=swap");
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
-/* ============================================================
-   Background Sections
-   ============================================================ */
 
 /* ============================================================
-   Academic & Professional Background
-   ============================================================ */
-
-.background-section {
-  margin-top: 1.2rem;
-  margin-bottom: 3rem;
-  padding-left: 1.4rem;
-  border-left: 4px solid #9E1B34;
-}
-
-.background-item {
-  display: grid;
-  grid-template-columns: 125px minmax(0, 1fr);
-  column-gap: 1.6rem;
-  align-items: center;
-
-  padding: 1.15rem 0;
-  border-bottom: 1px solid #eeeeee;
-}
-
-.background-item:last-child {
-  border-bottom: none;
-}
-
-/* Quarto wraps Markdown images inside a paragraph */
-.background-item > p {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Academic logos */
-.background-logo-img {
-  display: block;
-  max-width: 100px;
-  max-height: 58px;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  margin: 0;
-}
-
-/* Professional Experience: larger logo column */
-.professional-section .background-item {
-  grid-template-columns: 175px minmax(0, 1fr);
-  column-gap: 1.8rem;
-}
-
-/* Professional Experience: larger logos */
-.professional-section .background-logo-img {
-  max-width: 155px;
-  max-height: 88px;
-}
-
-/* Give professional logo area a little more vertical room */
-.professional-section .background-item > p {
-  min-height: 95px;
-}
-
-.background-text {
-  min-width: 0;
-  line-height: 1.45;
-}
-
-.background-text strong {
-  font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 1.08rem;
-  font-weight: 600;
-}
-
-.background-meta {
-  display: inline-block;
-  margin-top: 0.1rem;
-  color: #777777;
-  font-size: 0.88rem;
-  line-height: 1.4;
-}
-
-
-/* ============================================================
-   Mobile
-   ============================================================ */
-
-@media (max-width: 650px) {
-
-  .background-section {
-    padding-left: 1rem;
-  }
-
-  .background-item {
-    grid-template-columns: 85px minmax(0, 1fr);
-    column-gap: 1rem;
-  }
-
-  .background-logo-img {
-    max-width: 72px;
-    max-height: 48px;
-  }
-
-  .professional-section .background-item {
-    grid-template-columns: 115px minmax(0, 1fr);
-  }
-
-  .professional-section .background-logo-img {
-    max-width: 105px;
-    max-height: 65px;
-  }
-
-  .professional-section .background-item > p {
-    min-height: 70px;
-  }
-}
-
-
-}/* ============================================================
    Global
    ============================================================ */
 
 html {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 body {
-  font-family: "Libre Baskerville", Georgia, serif;
-  color: #222222;
-  font-size: 1rem;
-  line-height: 1.7;
+  font-family: "Source Sans 3", Arial, sans-serif;
+  color: #292929;
+  line-height: 1.6;
 }
 
 h1,
@@ -147,91 +31,40 @@ h6 {
   color: #222222;
 }
 
-a {
-  color: #333333;
-  text-decoration: none;
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 1.2rem;
 }
 
-a:hover {
+h2 {
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-top: 3rem;
+  margin-bottom: 1.2rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+a {
   color: #9E1B34;
   text-decoration: none;
 }
 
-
-/* Hide Quarto's automatic title block.
-   We will place page titles inside our own layout. */
-
-.quarto-title-block {
-  display: none;
+a:hover {
+  color: #741329;
+  text-decoration: underline;
 }
 
 
 /* ============================================================
-   Temple Cherry Navbar
+   Quarto / page layout
    ============================================================ */
-
-.navbar {
-  background-color: #9E1B34 !important;
-  border-bottom: none;
-  padding-top: 0.85rem;
-  padding-bottom: 0.85rem;
-}
-
-.navbar-brand {
-  font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #ffffff !important;
-}
-
-.navbar-nav .nav-link {
-  color: #ffffff !important;
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin-left: 0.6rem;
-  opacity: 0.92;
-}
-
-.navbar-nav .nav-link:hover {
-  color: #ffffff !important;
-  opacity: 1;
-}
-
-.navbar-nav .nav-link.active {
-  color: #ffffff !important;
-  opacity: 1;
-  border-bottom: 2px solid #ffffff;
-}
-
-
-/* Mobile menu icon */
-
-.navbar-toggler {
-  border-color: rgba(255, 255, 255, 0.6);
-}
-
-.navbar-toggler-icon {
-  filter: invert(1);
-}
-
-
-/* ============================================================
-   Main Two-Column Academic Layout
-   ============================================================ */
-
-.site-layout {
-  display: grid;
-  grid-template-columns: 260px minmax(0, 1fr);
-  gap: 3.5rem;
-
-  width: calc(100% - 4rem);
-  max-width: 1700px;
-
-  margin: 0 auto;
-  padding: 3.5rem 0 5rem 0;
-
-  align-items: start;
-}
 
 #quarto-content {
   padding-left: 0 !important;
@@ -243,21 +76,60 @@ main.content {
   padding-right: 0 !important;
 }
 
+.site-layout {
+  display: grid;
+
+  grid-template-columns:
+    260px
+    minmax(0, 1fr);
+
+  gap: 3.5rem;
+
+  width: calc(100% - 4rem);
+  max-width: 1700px;
+
+  margin: 0 auto;
+
+  padding: 3.5rem 0 5rem 0;
+
+  align-items: start;
+}
+
 .profile-column {
   min-width: 0;
+
   position: sticky;
   top: 5.5rem;
+
   align-self: start;
 }
 
 .main-column {
   min-width: 0;
-  max-width: 1000px;
+  max-width: 1100px;
 }
 
 
 /* ============================================================
-   Left Profile Column
+   Navbar
+   ============================================================ */
+
+.navbar {
+  font-family: "Source Sans 3", Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 600;
+}
+
+
+/* ============================================================
+   Profile
    ============================================================ */
 
 .profile-card {
@@ -265,52 +137,40 @@ main.content {
 }
 
 .profile-photo {
-  width: 190px;
-  height: 190px;
-  object-fit: cover;
-  object-position: center 18%;
-  border-radius: 50%;
   display: block;
-  margin-bottom: 1.35rem;
+  width: 200px;
+  height: 240px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 8px;
+  margin: 0 0 1.25rem 0;
 }
 
 .profile-name {
   font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 1.5rem;
-  font-weight: 600;
-  line-height: 1.2;
-  margin-bottom: 0.55rem;
+
+  font-size: 1.12rem;
+  font-weight: 700;
+
+  line-height: 1.35;
+
+  margin-bottom: 0.3rem;
 }
 
-.profile-role {
-  font-size: 1rem;
+.profile-title {
+  font-size: 0.93rem;
   font-weight: 600;
+
   line-height: 1.4;
 }
 
-.profile-field {
-  font-size: 0.91rem;
-  line-height: 1.45;
-  color: #555555;
-  margin-top: 0.1rem;
-}
-
-.profile-affiliation {
-  font-size: 0.91rem;
-  line-height: 1.45;
-  color: #555555;
-  margin-top: 0.15rem;
-}
-
+.profile-affiliation,
 .profile-location {
-  font-size: 0.88rem;
   color: #666666;
-  margin-top: 0.8rem;
-  margin-bottom: 1.25rem;
-}
 
-.profile-location i {
-  margin-right: 0.3rem;
+  font-size: 0.84rem;
+
+  line-height: 1.45;
 }
 
 
@@ -321,17 +181,25 @@ main.content {
 .sidebar-links {
   display: flex;
   flex-direction: column;
+
   gap: 0.45rem;
-  margin-top: 0.7rem;
+
+  margin-top: 0.9rem;
 }
 
 .sidebar-links a {
   display: flex;
+
   align-items: center;
+
   gap: 0.55rem;
+
   color: #333333;
+
   font-size: 0.94rem;
   font-weight: 500;
+
+  text-decoration: none;
 }
 
 .sidebar-links a:hover {
@@ -340,104 +208,686 @@ main.content {
 
 .sidebar-links i {
   width: 1rem;
+
   color: #666666;
 }
 
+
 /* ============================================================
-   Research Interests - Publications Sidebar
+   Research Interests Sidebar
    ============================================================ */
 
 .sidebar-research {
+  position: static;
+
   margin-top: 2rem;
+
   padding-top: 1.4rem;
+
   border-top: 1px solid #e5e5e5;
 }
 
 .sidebar-section-title {
+  margin-bottom: 1.15rem;
+
+  color: #9E1B34;
+
   font-size: 0.80rem;
   font-weight: 700;
+
   text-transform: uppercase;
+
   letter-spacing: 0.09em;
-  color: #9E1B34;
-  margin-bottom: 1.15rem;
 }
 
 .sidebar-research-item {
-  margin-bottom: 1.15rem;
+  margin-bottom: 1.2rem;
 }
 
 .sidebar-research-item strong {
   display: block;
+
   font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 0.98rem;
-  font-weight: 600;
-  line-height: 1.3;
+
   color: #222222;
+
+  font-size: 0.98rem;
+  font-weight: 700;
+
+  line-height: 1.35;
 }
 
 .sidebar-research-item span {
   display: block;
+
   margin-top: 0.18rem;
+
   color: #777777;
+
   font-size: 0.80rem;
+
   line-height: 1.45;
 }
 
 
 /* ============================================================
-   Main Page Content
+   Job Market Note
    ============================================================ */
 
-.main-column h1 {
-  font-size: 2.25rem;
-  font-weight: 600;
-  line-height: 1.15;
-  margin-top: 0;
-  margin-bottom: 1.5rem;
+.job-market-note {
+  margin: 2rem 0 3rem 0;
+
+  padding: 1rem 1.3rem;
+
+  border-left: 4px solid #9E1B34;
+
+  background: #fafafa;
+
+  font-size: 0.96rem;
+
+  line-height: 1.5;
 }
 
-.main-column h2 {
-  font-size: 1.65rem;
-  font-weight: 600;
-  margin-top: 2.8rem;
-  margin-bottom: 1.2rem;
-}
+.job-market-note strong {
+  font-family: "Libre Baskerville", Georgia, serif;
 
-.main-column h3 {
-  font-size: 1.18rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
+  color: #9E1B34;
 
-.main-column p {
-  margin-bottom: 1.15rem;
+  font-size: 1rem;
 }
-
 
 
 /* ============================================================
-   Publications
+   Academic & Professional Journey — Global Timeline
+   ============================================================ */
+
+.journey-header {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    72px
+    minmax(0, 1fr);
+
+  column-gap: 2.3rem;
+
+  align-items: end;
+
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+
+  padding-bottom: 0.55rem;
+
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.journey-side-label,
+.journey-center-label {
+  font-size: 0.74rem;
+  font-weight: 700;
+
+  text-transform: uppercase;
+
+  letter-spacing: 0.1em;
+}
+
+.academic-label {
+  text-align: right;
+  color: #9E1B34;
+}
+
+.journey-center-label {
+  text-align: center;
+  color: #888888;
+}
+
+.industry-label {
+  text-align: left;
+  color: #555555;
+}
+
+.journey-scale-note {
+  margin-bottom: 1.3rem;
+
+  text-align: center;
+
+  color: #999999;
+
+  font-size: 0.68rem;
+
+  line-height: 1.4;
+}
+
+
+/* ============================================================
+   Shared chronological grid
+   ============================================================ */
+
+.journey-global {
+  position: relative;
+
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    28px
+    72px
+    28px
+    minmax(0, 1fr);
+
+  grid-template-rows: repeat(10, 108px);
+
+  column-gap: 1rem;
+
+  margin-bottom: 4rem;
+}
+
+
+/* central continuous spine */
+
+.journey-global::before {
+  content: "";
+
+  position: absolute;
+
+  top: 54px;
+  bottom: 54px;
+
+  left: 50%;
+
+  width: 2px;
+
+  transform: translateX(-50%);
+
+  background: #dddddd;
+
+  z-index: 0;
+}
+
+
+/* ============================================================
+   Global year nodes
+   ============================================================ */
+
+.global-year {
+  grid-column: 3;
+
+  position: relative;
+
+  align-self: center;
+  justify-self: center;
+
+  z-index: 8;
+
+  width: 72px;
+
+  text-align: center;
+}
+
+.global-year::before {
+  content: "";
+
+  display: block;
+
+  width: 11px;
+  height: 11px;
+
+  margin: 0 auto;
+
+  border: 3px solid #9E1B34;
+  border-radius: 50%;
+
+  background: #ffffff;
+}
+
+.global-year span {
+  display: inline-block;
+
+  margin-top: 0.15rem;
+
+  padding: 0 0.25rem;
+
+  background: #ffffff;
+
+  color: #777777;
+
+  font-size: 0.67rem;
+  font-weight: 700;
+
+  line-height: 1.2;
+}
+
+
+/* ============================================================
+   Multi-year interval rails
+   ============================================================ */
+
+.interval-rail {
+  position: relative;
+
+  z-index: 2;
+
+  width: 3px;
+
+  align-self: stretch;
+
+  /*
+    Each item spans the appropriate global year rows.
+    These margins place the rail endpoints at row centers.
+  */
+  margin-top: 54px;
+  margin-bottom: 54px;
+
+  border-radius: 4px;
+}
+
+
+/* Academic intervals */
+
+.academic-rail {
+  grid-column: 2;
+
+  justify-self: end;
+
+  margin-right: 3px;
+
+  background: #9E1B34;
+}
+
+
+/* Industry intervals */
+
+.industry-rail {
+  grid-column: 4;
+
+  justify-self: start;
+
+  margin-left: 3px;
+
+  background: #555555;
+}
+
+
+/* interval endpoint dots */
+
+.interval-rail::before,
+.interval-rail::after {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+
+  width: 8px;
+  height: 8px;
+
+  transform: translateX(-50%);
+
+  border-radius: 50%;
+
+  background: inherit;
+}
+
+.interval-rail::before {
+  top: -4px;
+}
+
+.interval-rail::after {
+  bottom: -4px;
+}
+
+
+/* ============================================================
+   Two diagonal endpoint connectors
+   MULTI-YEAR ACADEMIC
+   ============================================================ */
+
+.academic-rail::before {
+  box-shadow: none;
+}
+
+.academic-rail {
+  --connector-color: #c5c5c5;
+}
+
+/*
+  Upper and lower diagonal connectors are produced
+  with nested visual shadows via pseudo-element borders.
+*/
+
+.academic-rail::before {
+  width: 8px;
+  height: 8px;
+}
+
+.academic-rail::after {
+  width: 8px;
+  height: 8px;
+}
+
+
+/* diagonal from top of academic range toward central year */
+
+.academic-rail {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.academic-rail::marker {
+  display: none;
+}
+
+
+/* ============================================================
+   Cards
+   ============================================================ */
+
+.journey-card {
+  position: relative;
+
+  z-index: 5;
+
+  align-self: center;
+
+  padding: 0.72rem 0.85rem;
+
+  background: #ffffff;
+
+  border: 1px solid #e7e7e7;
+  border-radius: 7px;
+
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.035);
+
+  min-width: 0;
+}
+
+.academic-card {
+  grid-column: 1;
+
+  border-left: 4px solid #9E1B34;
+}
+
+.industry-card {
+  grid-column: 5;
+
+  border-left: 4px solid #555555;
+}
+
+
+/* ============================================================
+   Logo left / institution right
+   ============================================================ */
+
+.journey-card-header {
+  display: grid;
+
+  grid-template-columns:
+    60px
+    minmax(0, 1fr);
+
+  column-gap: 0.7rem;
+
+  align-items: center;
+
+  margin-bottom: 0.3rem;
+}
+
+.journey-logo {
+  display: block;
+
+  max-width: 56px;
+  max-height: 38px;
+
+  width: auto;
+  height: auto;
+
+  object-fit: contain;
+
+  justify-self: start;
+
+  margin: 0;
+}
+
+.journey-institution {
+  text-align: right;
+
+  font-family: "Libre Baskerville", Georgia, serif;
+
+  color: #222222;
+
+  font-size: 0.86rem;
+  font-weight: 700;
+
+  line-height: 1.3;
+}
+
+.journey-role {
+  color: #333333;
+
+  font-size: 0.81rem;
+  font-weight: 600;
+
+  line-height: 1.35;
+}
+
+.journey-meta {
+  margin-top: 0.12rem;
+
+  color: #777777;
+
+  font-size: 0.71rem;
+
+  line-height: 1.4;
+}
+
+.journey-mobile-date {
+  display: none;
+}
+
+
+/* ============================================================
+   Card → interval connector
+   Multi-year cards
+   ============================================================ */
+
+.academic-card.multi-card::after {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+
+  right: calc(-1rem - 17px);
+
+  width: calc(1rem + 17px);
+  height: 2px;
+
+  background: #c8c8c8;
+
+  transform-origin: left center;
+  transform: rotate(-6deg);
+}
+
+.industry-card.multi-card::before {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+
+  left: calc(-1rem - 17px);
+
+  width: calc(1rem + 17px);
+  height: 2px;
+
+  background: #c8c8c8;
+
+  transform-origin: right center;
+  transform: rotate(6deg);
+}
+
+
+/* ============================================================
+   Interval rail → global year
+   TWO endpoint connectors per multi-year experience
+   ============================================================ */
+
+/*
+   Each interval rail sits next to the center year axis.
+   These overlays create short diagonal connections from
+   both ends of the rail toward the global axis.
+*/
+
+.interval-rail {
+  overflow: visible;
+}
+
+.interval-rail span {
+  display: none;
+}
+
+
+/* Additional endpoint diagonals using drop shadows */
+
+.academic-rail {
+  filter:
+    drop-shadow(13px 3px 0 #c8c8c8)
+    drop-shadow(13px -3px 0 #c8c8c8);
+}
+
+.industry-rail {
+  filter:
+    drop-shadow(-13px 3px 0 #c8c8c8)
+    drop-shadow(-13px -3px 0 #c8c8c8);
+}
+
+
+/* ============================================================
+   Single-year cards connect directly to global year point
+   ============================================================ */
+
+.academic-card.single-card::after {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+
+  right: calc(-2rem - 64px);
+
+  width: calc(2rem + 64px);
+  height: 2px;
+
+  background: #cccccc;
+
+  transform-origin: left center;
+  transform: rotate(-3deg);
+}
+
+.industry-card.single-card::before {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+
+  left: calc(-2rem - 64px);
+
+  width: calc(2rem + 64px);
+  height: 2px;
+
+  background: #cccccc;
+
+  transform-origin: right center;
+  transform: rotate(3deg);
+}
+
+
+/* ============================================================
+   Responsive Timeline
+   ============================================================ */
+
+@media (max-width: 900px) {
+
+  .journey-header,
+  .journey-scale-note {
+    display: none;
+  }
+
+  .journey-global {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 1.15rem;
+
+    margin-top: 1.5rem;
+  }
+
+  .journey-global::before,
+  .global-year,
+  .interval-rail {
+    display: none;
+  }
+
+  .journey-card,
+  .academic-card,
+  .industry-card {
+    width: 100%;
+  }
+
+  .journey-card::before,
+  .journey-card::after {
+    display: none !important;
+  }
+
+  .journey-mobile-date {
+    display: inline-block;
+
+    margin-top: 0.4rem;
+
+    color: #9E1B34;
+
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+
+  .industry-card .journey-mobile-date {
+    color: #555555;
+  }
+
+}
+
+/* ============================================================
+   Publications / Research
    ============================================================ */
 
 .publication-entry {
   max-width: 900px;
+
   margin-bottom: 2.8rem;
+
   padding-bottom: 0.4rem;
 }
 
 .publication-entry h3 {
-  font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 1.18rem;
-  font-weight: 700;
-  line-height: 1.45;
   margin-top: 0;
   margin-bottom: 0.55rem;
+
+  font-family: "Libre Baskerville", Georgia, serif;
+
+  font-size: 1.18rem;
+  font-weight: 700;
+
+  line-height: 1.45;
 }
 
 .publication-authors {
-  font-size: 1rem;
-  line-height: 1.5;
   margin-bottom: 0.35rem;
+
+  font-size: 1rem;
+
+  line-height: 1.5;
 }
 
 .publication-authors strong {
@@ -445,22 +895,30 @@ main.content {
 }
 
 .publication-journal {
-  font-size: 0.98rem;
-  line-height: 1.5;
-  color: #555555;
   margin-bottom: 0.4rem;
+
+  color: #555555;
+
+  font-size: 0.98rem;
+
+  line-height: 1.5;
 }
 
 .publication-status {
   display: inline-block;
+
   margin-top: 0.4rem;
+
   padding: 0.22rem 0.55rem;
+
   background: #f3f3f3;
+
   border-radius: 3px;
+
+  color: #555555;
 
   font-size: 0.84rem;
   font-weight: 600;
-  color: #555555;
 }
 
 .publication-links {
@@ -468,13 +926,54 @@ main.content {
 }
 
 .publication-links a {
+  color: #9E1B34;
+
   font-size: 0.92rem;
   font-weight: 600;
-  color: #9E1B34;
 }
 
-.publication-links a:hover {
-  text-decoration: underline;
+
+/* ============================================================
+   Teaching
+   ============================================================ */
+
+.teaching-entry {
+  margin-top: 1.2rem;
+  margin-bottom: 2.5rem;
+
+  padding-bottom: 1.4rem;
+
+  border-bottom: 1px solid #eeeeee;
+}
+
+.teaching-entry h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+
+  font-family: "Libre Baskerville", Georgia, serif;
+
+  font-size: 1.18rem;
+  font-weight: 700;
+
+  line-height: 1.4;
+}
+
+.teaching-meta {
+  margin-bottom: 0.7rem;
+
+  color: #777777;
+
+  font-size: 0.88rem;
+}
+
+.teaching-entry ul {
+  margin-top: 0.6rem;
+
+  padding-left: 1.25rem;
+}
+
+.teaching-entry li {
+  margin-bottom: 0.3rem;
 }
 
 
@@ -483,52 +982,57 @@ main.content {
    ============================================================ */
 
 .cv-actions {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .cv-actions a {
   display: inline-block;
-  padding: 0.65rem 1rem;
-  border: 1px solid #333333;
+
+  padding: 0.7rem 1.1rem;
+
+  border: 1px solid #9E1B34;
   border-radius: 4px;
+
+  color: #9E1B34;
+
   font-weight: 600;
+
+  text-decoration: none;
 }
 
 .cv-actions a:hover {
   background: #9E1B34;
-  border-color: #9E1B34;
+
   color: #ffffff;
+
+  text-decoration: none;
 }
 
 
 /* ============================================================
-   Footer
+   Responsive
    ============================================================ */
 
-.nav-footer {
-  font-size: 0.78rem;
-  color: #777777;
-}
-
-
-/* ============================================================
-   Mobile
-   ============================================================ */
-
-@media (max-width: 850px) {
+@media (max-width: 900px) {
 
   html {
-    font-size: 18px;
+    font-size: 19px;
   }
 
   .site-layout {
     grid-template-columns: 1fr;
+
     gap: 2.5rem;
+
+    width: calc(100% - 2rem);
+
     padding-top: 2.5rem;
   }
 
   .profile-column {
     position: static;
+
+    top: auto;
   }
 
   .profile-card {
@@ -543,43 +1047,982 @@ main.content {
   .main-column {
     max-width: none;
   }
+
+
+  /* Timeline switches to chronological cards */
+
+  .journey-header {
+    display: none;
+  }
+
+  .journey-range-timeline {
+    padding-left: 0;
+  }
+
+  .journey-range-timeline::before {
+    display: none;
+  }
+
+  .range-row,
+  .range-row.multi-year,
+  .range-row.single-year {
+    display: flex;
+
+    flex-direction: column;
+
+    min-height: 0;
+
+    margin-bottom: 1.25rem;
+  }
+
+  .range-axis,
+  .range-empty {
+    display: none;
+  }
+
+  .range-card,
+  .academic-card,
+  .industry-card {
+    width: 100%;
+  }
+
+  .range-card::before,
+  .range-card::after {
+    display: none !important;
+  }
+
+  .range-mobile-date {
+    display: inline-block;
+
+    margin-top: 0.45rem;
+
+    color: #9E1B34;
+
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+
+  .industry-card .range-mobile-date {
+    color: #555555;
+  }
+
+}
+
+
+@media (max-width: 600px) {
+
+  .site-layout {
+    width: calc(100% - 1.5rem);
+  }
+
+  .range-card-header {
+    grid-template-columns:
+      56px
+      minmax(0, 1fr);
+  }
+
+  .range-logo {
+    max-width: 52px;
+    max-height: 36px;
+  }
+
+  .range-institution {
+    font-size: 0.9rem;
+  }
+
 }
 
 /* ============================================================
-   Teaching
+   FINAL CHRONOLOGICAL TIMELINE
    ============================================================ */
 
-.teaching-entry {
-  margin-top: 1.2rem;
-  margin-bottom: 2.5rem;
-  padding-bottom: 1.4rem;
-  border-bottom: 1px solid #eeeeee;
+.chrono-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 114px minmax(0, 1fr);
+  gap: 1rem;
+
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+
+  padding-bottom: 0.55rem;
+
+  border-bottom: 1px solid #e5e5e5;
 }
 
-.teaching-entry h3 {
+.chrono-heading {
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.chrono-heading.academic {
+  text-align: right;
+  color: #9E1B34;
+}
+
+.chrono-heading.year {
+  text-align: center;
+  color: #888888;
+}
+
+.chrono-heading.industry {
+  text-align: left;
+  color: #555555;
+}
+
+
+/* ============================================================
+   Main Grid
+   ============================================================ */
+
+.chrono-timeline {
+  position: relative;
+
+  display: grid;
+
+  /*
+     Card | academic duration | year | industry duration | card
+  */
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    18px
+    70px
+    18px
+    minmax(0, 1fr);
+
+  grid-template-rows: repeat(10, 112px);
+
+  column-gap: 12px;
+
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+
+/* central line */
+
+.chrono-timeline::before {
+  content: "";
+
+  position: absolute;
+
+  top: 56px;
+  bottom: 56px;
+
+  left: 50%;
+
+  width: 2px;
+
+  transform: translateX(-50%);
+
+  background: #dddddd;
+
+  z-index: 0;
+}
+
+
+/* ============================================================
+   Years
+   ============================================================ */
+
+.chrono-year {
+  grid-column: 3;
+
+  align-self: center;
+  justify-self: center;
+
+  position: relative;
+
+  z-index: 10;
+
+  width: 70px;
+
+  text-align: center;
+}
+
+.chrono-year::before {
+  content: "";
+
+  display: block;
+
+  width: 11px;
+  height: 11px;
+
+  margin: 0 auto;
+
+  border: 3px solid #b5b5b5;
+  border-radius: 50%;
+
+  background: white;
+}
+
+.chrono-year span {
+  display: inline-block;
+
+  margin-top: 0.15rem;
+
+  padding: 0 0.25rem;
+
+  background: white;
+
+  color: #6f6f6f;
+
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+
+/* ============================================================
+   Multi-Year Duration Rails
+   ============================================================ */
+
+.chrono-rail {
+  position: relative;
+
+  align-self: stretch;
+
+  width: 4px;
+
+  /*
+    Half of one 112px row.
+    This makes endpoints line up with the year nodes.
+  */
+
+  margin-top: 56px;
+  margin-bottom: 56px;
+
+  border-radius: 4px;
+
+  z-index: 4;
+}
+
+
+/* Academic rail */
+
+.chrono-rail.academic {
+  grid-column: 2;
+
+  justify-self: center;
+
+  background: #9E1B34;
+}
+
+
+/* Industry rail */
+
+.chrono-rail.industry {
+  grid-column: 4;
+
+  justify-self: center;
+
+  background: #555555;
+}
+
+
+/* Rail endpoint dots */
+
+.chrono-rail::before,
+.chrono-rail::after {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+
+  width: 9px;
+  height: 9px;
+
+  transform: translateX(-50%);
+
+  border-radius: 50%;
+
+  background: inherit;
+
+  z-index: 5;
+}
+
+.chrono-rail::before {
+  top: -4px;
+}
+
+.chrono-rail::after {
+  bottom: -4px;
+}
+
+
+/* ============================================================
+   Rail → Year endpoint lines
+   TWO lines for every multi-year experience
+   ============================================================ */
+
+/* Academic: extend right toward year axis */
+
+.chrono-rail.academic::before {
+  box-shadow:
+    23px 0 0 -3px #c8c8c8,
+    35px 0 0 -3px #c8c8c8;
+}
+
+.chrono-rail.academic::after {
+  box-shadow:
+    23px 0 0 -3px #c8c8c8,
+    35px 0 0 -3px #c8c8c8;
+}
+
+
+/* Industry: extend left toward year axis */
+
+.chrono-rail.industry::before {
+  box-shadow:
+    -23px 0 0 -3px #c8c8c8,
+    -35px 0 0 -3px #c8c8c8;
+}
+
+.chrono-rail.industry::after {
+  box-shadow:
+    -23px 0 0 -3px #c8c8c8,
+    -35px 0 0 -3px #c8c8c8;
+}
+
+
+/* ============================================================
+   Single-Year Points
+   ============================================================ */
+
+.chrono-single {
+  align-self: center;
+  justify-self: center;
+
+  position: relative;
+
+  width: 10px;
+  height: 10px;
+
+  border-radius: 50%;
+
+  z-index: 7;
+}
+
+.chrono-single.academic {
+  grid-column: 2;
+
+  background: #9E1B34;
+}
+
+.chrono-single.industry {
+  grid-column: 4;
+
+  background: #555555;
+}
+
+
+/* Single academic point → central year */
+
+.chrono-single.academic::after {
+  content: "";
+
+  position: absolute;
+
+  left: 100%;
+  top: 50%;
+
+  width: 47px;
+  height: 2px;
+
+  transform: translateY(-50%);
+
+  background: #cccccc;
+}
+
+
+/* Single industry point → central year */
+
+.chrono-single.industry::before {
+  content: "";
+
+  position: absolute;
+
+  right: 100%;
+  top: 50%;
+
+  width: 47px;
+  height: 2px;
+
+  transform: translateY(-50%);
+
+  background: #cccccc;
+}
+
+
+/* ============================================================
+   Cards
+   ============================================================ */
+
+.chrono-card {
+  position: relative;
+
+  align-self: center;
+
+  min-width: 0;
+
+  padding: 0.72rem 0.85rem;
+
+  background: white;
+
+  border: 1px solid #e7e7e7;
+  border-radius: 7px;
+
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.035);
+
+  z-index: 8;
+}
+
+.chrono-card.academic {
+  grid-column: 1;
+
+  border-left: 4px solid #9E1B34;
+}
+
+.chrono-card.industry {
+  grid-column: 5;
+
+  border-left: 4px solid #555555;
+}
+
+
+/* Card → duration lane */
+
+.chrono-card.academic::after {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+  right: -22px;
+
+  width: 22px;
+  height: 2px;
+
+  transform: translateY(-50%);
+
+  background: #c8c8c8;
+}
+
+.chrono-card.industry::before {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+  left: -22px;
+
+  width: 22px;
+  height: 2px;
+
+  transform: translateY(-50%);
+
+  background: #c8c8c8;
+}
+
+
+/* ============================================================
+   Card Header
+   ============================================================ */
+
+.chrono-card-header {
+  display: grid;
+
+  grid-template-columns: 58px minmax(0, 1fr);
+
+  gap: 0.7rem;
+
+  align-items: center;
+
+  margin-bottom: 0.3rem;
+}
+
+.chrono-logo {
+  display: block;
+
+  max-width: 54px;
+  max-height: 37px;
+
+  width: auto;
+  height: auto;
+
+  object-fit: contain;
+
+  margin: 0;
+}
+
+.chrono-institution {
+  text-align: right;
+
   font-family: "Libre Baskerville", Georgia, serif;
-  font-size: 1.18rem;
-  font-weight: 600;
-  line-height: 1.4;
-  margin-top: 0;
-  margin-bottom: 0.3rem;
+
+  color: #222222;
+
+  font-size: 0.86rem;
+  font-weight: 700;
+
+  line-height: 1.3;
 }
 
-.teaching-meta {
+.chrono-role {
+  color: #333333;
+
+  font-size: 0.81rem;
+  font-weight: 600;
+
+  line-height: 1.35;
+}
+
+.chrono-meta {
+  margin-top: 0.12rem;
+
   color: #777777;
-  font-size: 0.84rem;
-  margin-bottom: 0.7rem;
+
+  font-size: 0.71rem;
+
+  line-height: 1.4;
 }
 
-.teaching-entry ul {
-  margin-top: 0.6rem;
-  padding-left: 1.25rem;
+.chrono-mobile-date {
+  display: none;
 }
 
-.teaching-entry li {
+
+/* ============================================================
+   Mobile
+   ============================================================ */
+
+@media (max-width: 900px) {
+
+  .chrono-header {
+    display: none;
+  }
+
+  .chrono-timeline {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 1.15rem;
+
+    margin-top: 1.5rem;
+  }
+
+  .chrono-timeline::before,
+  .chrono-year,
+  .chrono-rail,
+  .chrono-single {
+    display: none;
+  }
+
+  .chrono-card,
+  .chrono-card.academic,
+  .chrono-card.industry {
+    width: 100%;
+  }
+
+  .chrono-card::before,
+  .chrono-card::after {
+    display: none !important;
+  }
+
+  .chrono-mobile-date {
+    display: inline-block;
+
+    margin-top: 0.4rem;
+
+    color: #9E1B34;
+
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+
+  .chrono-card.industry .chrono-mobile-date {
+    color: #555555;
+  }
+
+}
+
+/* ============================================================
+   FINAL MILESTONE TIMELINE
+   ============================================================ */
+
+.milestone-header {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    82px
+    minmax(0, 1fr);
+
+  gap: 1.4rem;
+
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+
+  padding-bottom: 0.6rem;
+
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.milestone-heading {
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+}
+
+.milestone-heading.academic {
+  text-align: right;
+  color: #9E1B34;
+}
+
+.milestone-heading.year {
+  text-align: center;
+  color: #888888;
+}
+
+.milestone-heading.industry {
+  text-align: left;
+  color: #555555;
+}
+
+
+/* ============================================================
+   Timeline container
+   ============================================================ */
+
+.milestone-timeline {
+  position: relative;
+
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+
+/* central vertical line */
+
+.milestone-timeline::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  bottom: 0;
+  left: 50%;
+
+  width: 2px;
+
+  transform: translateX(-50%);
+
+  background: #dddddd;
+
+  z-index: 0;
+}
+
+
+/* ============================================================
+   Rows
+   ============================================================ */
+
+.milestone-row {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    82px
+    minmax(0, 1fr);
+
+  gap: 1.4rem;
+
+  align-items: center;
+
+  position: relative;
+
+  min-height: 112px;
+
+  margin-bottom: 0.6rem;
+}
+
+.milestone-empty {
+  min-width: 0;
+}
+
+
+/* ============================================================
+   Year nodes
+   ============================================================ */
+
+.milestone-year {
+  grid-column: 2;
+
+  position: relative;
+
+  z-index: 6;
+
+  justify-self: center;
+
+  width: 70px;
+
+  text-align: center;
+}
+
+.milestone-year::before {
+  content: "";
+
+  display: block;
+
+  width: 12px;
+  height: 12px;
+
+  margin: 0 auto 0.2rem auto;
+
+  border: 3px solid #9E1B34;
+  border-radius: 50%;
+
+  background: #ffffff;
+}
+
+.milestone-year span {
+  display: inline-block;
+
+  padding: 0 0.25rem;
+
+  background: #ffffff;
+
+  color: #666666;
+
+  font-size: 0.70rem;
+  font-weight: 700;
+
+  line-height: 1.2;
+}
+
+
+/* ============================================================
+   Cards
+   ============================================================ */
+
+.milestone-card {
+  position: relative;
+
+  z-index: 4;
+
+  padding: 0.78rem 0.9rem;
+
+  background: #ffffff;
+
+  border: 1px solid #e7e7e7;
+  border-radius: 7px;
+
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.035);
+
+  min-width: 0;
+}
+
+.milestone-card.academic-card {
+  grid-column: 1;
+
+  border-left: 4px solid #9E1B34;
+}
+
+.milestone-card.industry-card {
+  grid-column: 3;
+
+  border-left: 4px solid #555555;
+}
+
+
+/* ============================================================
+   Connector lines
+   ============================================================ */
+
+/* Academic → center */
+
+.milestone-card.academic-card::after {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+  right: -2.25rem;
+
+  width: 2.25rem;
+  height: 2px;
+
+  background: #cccccc;
+
+  transform-origin: left center;
+  transform: rotate(-4deg);
+}
+
+
+/* Center → Industry */
+
+.milestone-card.industry-card::before {
+  content: "";
+
+  position: absolute;
+
+  top: 50%;
+  left: -2.25rem;
+
+  width: 2.25rem;
+  height: 2px;
+
+  background: #cccccc;
+
+  transform-origin: right center;
+  transform: rotate(4deg);
+}
+
+
+/* ============================================================
+   Logo + institution
+   ============================================================ */
+
+.milestone-card-header {
+  display: grid;
+
+  grid-template-columns:
+    62px
+    minmax(0, 1fr);
+
+  gap: 0.75rem;
+
+  align-items: center;
+
   margin-bottom: 0.3rem;
 }
 
-.teaching-entry strong {
+.milestone-logo {
+  display: block;
+
+  max-width: 58px;
+  max-height: 40px;
+
+  width: auto;
+  height: auto;
+
+  object-fit: contain;
+
+  margin: 0;
+
+  justify-self: start;
+}
+
+.milestone-institution {
+  text-align: right;
+
+  font-family: "Libre Baskerville", Georgia, serif;
+
+  color: #222222;
+
+  font-size: 0.88rem;
+  font-weight: 700;
+
+  line-height: 1.3;
+}
+
+
+/* ============================================================
+   Full interval label
+   ============================================================ */
+
+.milestone-date {
+  display: inline-block;
+
+  margin-top: 0.15rem;
+  margin-bottom: 0.25rem;
+
+  color: #9E1B34;
+
+  font-size: 0.73rem;
+  font-weight: 700;
+
+  letter-spacing: 0.02em;
+}
+
+.industry-card .milestone-date {
+  color: #555555;
+}
+
+
+/* ============================================================
+   Degree / position
+   ============================================================ */
+
+.milestone-role {
+  color: #333333;
+
+  font-size: 0.83rem;
   font-weight: 600;
+
+  line-height: 1.35;
+}
+
+
+/* ============================================================
+   Secondary information
+   ============================================================ */
+
+.milestone-meta {
+  margin-top: 0.15rem;
+
+  color: #777777;
+
+  font-size: 0.73rem;
+
+  line-height: 1.4;
+}
+
+
+/* ============================================================
+   Mobile
+   ============================================================ */
+
+@media (max-width: 900px) {
+
+  .milestone-header {
+    display: none;
+  }
+
+  .milestone-timeline::before {
+    display: none;
+  }
+
+  .milestone-row {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 0.8rem;
+
+    min-height: 0;
+
+    margin-bottom: 1.3rem;
+  }
+
+  .milestone-year,
+  .milestone-empty {
+    display: none;
+  }
+
+  .milestone-card,
+  .milestone-card.academic-card,
+  .milestone-card.industry-card {
+    width: 100%;
+  }
+
+  .milestone-card::before,
+  .milestone-card::after {
+    display: none !important;
+  }
+
 }

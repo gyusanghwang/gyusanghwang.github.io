@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Research"
 ---
 
 ::::: {.site-layout}
@@ -7,7 +7,6 @@ title: "Publications"
 :::: {.profile-column}
 
 {{< include _profile.qmd >}}
-
 
 ::: {.sidebar-research}
 
@@ -35,7 +34,8 @@ title: "Publications"
 
 :::: {.main-column}
 
-# Publications
+# Research
+
 
 ## Peer-Reviewed Publication
 
@@ -60,7 +60,7 @@ Yang Yang, Qianwen Yin, <strong>Gyusang Hwang</strong>, Sai Liang, & Dejin Yang
 :::
 
 
-## Under Review
+## Manuscripts Under Review
 
 ::: {.publication-entry}
 
@@ -100,41 +100,22 @@ Yang Yang, Qianwen Yin, <strong>Gyusang Hwang</strong>, Sai Liang, & Dejin Yang
 :::
 
 
-## Research in Progress
+## International Conference Presentations
 
 ::: {.publication-entry}
 
-### Institutional Calibration: From Connoisseur to Auditor
+### Institutional Calibration: Why Experienced Reviewers Converge with the Consensus?
 
 <div class="publication-authors">
 <strong>Gyusang Hwang</strong> & Yang Yang
 </div>
 
 <div class="publication-journal">
-Target: <em>Annals of Tourism Research</em>
+2nd Workshop of Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR) · Philadelphia, PA · 2026
 </div>
 
 <div class="publication-status">
-Finalizing for submission
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Beyond Service Quality: A Meta-analytic Review of Tipping Determinants
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong>, Xue Huang, & Yang Yang
-</div>
-
-<div class="publication-journal">
-Target: <em>International Journal of Hospitality Management</em>
-</div>
-
-<div class="publication-status">
-Manuscript drafting
+Best Student Paper Award
 </div>
 
 :::
@@ -149,11 +130,7 @@ Manuscript drafting
 </div>
 
 <div class="publication-journal">
-Target: <em>Annals of Tourism Research</em>
-</div>
-
-<div class="publication-status">
-Manuscript drafting
+The Academy of Leisure Science (TALS) Research and Teaching Conference · Philadelphia, PA · 2026
 </div>
 
 :::
@@ -161,18 +138,14 @@ Manuscript drafting
 
 ::: {.publication-entry}
 
-### How Far Do Events Travel?: Spatial Decay in Event-Driven Restaurant Revenue Spillovers
+### Feast or Famine: A Big and Deep Data Approach to Event Impacts on Restaurant Revenue
 
 <div class="publication-authors">
 <strong>Gyusang Hwang</strong> & Yang Yang
 </div>
 
 <div class="publication-journal">
-Target: <em>Tourism Management</em>
-</div>
-
-<div class="publication-status">
-Manuscript drafting
+31st Graduate Education & Graduate Student Research Conference in Hospitality & Tourism · Auburn, AL · 2026
 </div>
 
 :::
@@ -180,18 +153,14 @@ Manuscript drafting
 
 ::: {.publication-entry}
 
-### Wage, Tips, and Well-Being: A Multi-method Approach to Understanding Compensation Policies
+### (tip)Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry
 
 <div class="publication-authors">
-<strong>Gyusang Hwang</strong>, K. P. S. Tan, Yang Yang, & Y. Liu
+<strong>Gyusang Hwang</strong>, Yang Yang, K. P. S. Tan, & Y. Liu
 </div>
 
 <div class="publication-journal">
-Target: <em>International Journal of Hospitality Management</em>
-</div>
-
-<div class="publication-status">
-Data collection
+55th TTRA Annual Conference · Galway, Ireland · 2025
 </div>
 
 :::
@@ -199,19 +168,191 @@ Data collection
 
 ::: {.publication-entry}
 
-### Timing the Tip: Investigating Temporal Distance and Post-Service Tipping
+### (tip)Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry
 
 <div class="publication-authors">
-<strong>Gyusang Hwang</strong>, Wangoo Lee, & Yang Yang
+<strong>Gyusang Hwang</strong> & Yang Yang
 </div>
 
 <div class="publication-journal">
-Target: <em>International Journal of Hospitality Management</em>
+Tourism, Hospitality, and Event Conference for Researchers, Educators, Practitioners, and Students (THEREPS) · Flushing, NY · 2025
 </div>
 
 <div class="publication-status">
-Data collection
+TOSOK Best Paper Award
 </div>
+
+:::
+
+
+::: {.publication-entry}
+
+### When Crowds Converge: Examining the Nuanced Relationship between Planned Events and Crime
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+30th Graduate Education & Graduate Student Research Conference in Hospitality & Tourism · Houston, TX · 2025
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+54th TTRA Annual Conference · Burlington, VT · 2024
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship
+
+<div class="publication-authors">
+<strong>Gyusang Hwang</strong> & Yang Yang
+</div>
+
+<div class="publication-journal">
+22nd ApacCHRIE Conference · Seoul, South Korea · 2024
+</div>
+
+:::
+
+
+## Awards & Honors
+
+::: {.publication-entry}
+
+### Commendable Paper Award
+
+<div class="publication-journal">
+2026 ICHRIE Global Conference · Council on Hotel, Restaurant, and Institutional Education · 2026
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Best Student Paper Award
+
+<div class="publication-journal">
+2nd WIDE-HTR · Conrad N. Hilton College of Global Hospitality Leadership, University of Houston · 2026
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### TOSOK Best Paper Award
+
+<div class="publication-journal">
+2025 THEREPS · Korea America Hospitality and Tourism Educators Association (KAHTEA) · 2025
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### Special Recognition & Best Presenter
+
+<div class="publication-journal">
+Asia MICE Youth Challenge · Asian Federation of Exhibition and Convention · 2016
+</div>
+
+:::
+
+
+::: {.publication-entry}
+
+### 2nd Place Award
+
+<div class="publication-journal">
+4th Busan MICE Contents Development Contest · Busan Metropolitan City · 2014
+</div>
+
+:::
+
+
+## Research Funding
+
+::: {.publication-entry}
+
+### 2nd RAIS Symposium Seed Funding
+
+<div class="publication-authors">
+<strong>Co-PI</strong> · $600 · 2025
+</div>
+
+<div class="publication-journal">
+Fox School of Business, Temple University
+</div>
+
+*Deconstructing the Rippling Stadium Effect: Multi-venue Analysis of Restaurant Revenue*
+
+:::
+
+
+::: {.publication-entry}
+
+### 1st RAIS Symposium Seed Funding
+
+<div class="publication-authors">
+<strong>Co-PI</strong> · $2,000 · 2024
+</div>
+
+<div class="publication-journal">
+Fox School of Business, Temple University
+</div>
+
+*Developing an Event Impact Index for U.S. Business Competitiveness: A Strategic Analysis of Planned Events*
+
+:::
+
+
+::: {.publication-entry}
+
+### 27th Young Scholars Interdisciplinary Forum Seed Funding
+
+<div class="publication-authors">
+<strong>Co-PI</strong> · $1,000 · 2023
+</div>
+
+<div class="publication-journal">
+Fox School of Business, Temple University
+</div>
+
+*Which Events Are More Beneficial? Heterogeneous Effects of Planned Events on Hotel Demand*
+
+:::
+
+
+::: {.publication-entry}
+
+### NEXT International Cultural Exchange Research Activity
+
+<div class="publication-authors">
+<strong>Co-PI</strong> · $3,000 · 2020
+</div>
+
+<div class="publication-journal">
+Korea Foundation for International Culture Exchange
+</div>
+
+*Post-Pandemic Paradigm Shifts in Domestic and International Cultural and Artistic Activities: An Examination of Artists' International Exchange Methods via Diverse Platforms*
 
 :::
 
