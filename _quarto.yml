@@ -5,6 +5,7 @@ project:
 website:
   title: "Gyusang (Kevin) Hwang"
   site-url: "https://gyusanghwang.github.io"
+  google-analytics: "G-WBTVX0NZJL"
 
   navbar:
     background: "#9E1B34"
