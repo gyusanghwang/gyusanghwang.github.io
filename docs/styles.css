@@ -1889,32 +1889,27 @@ main.content {
 
 .milestone-card-header {
   display: grid;
-
-  grid-template-columns:
-    62px
-    minmax(0, 1fr);
-
+  grid-template-columns: 82px minmax(0, 1fr);
   gap: 0.75rem;
-
   align-items: center;
-
   margin-bottom: 0.3rem;
 }
 
 .milestone-logo {
   display: block;
-
-  max-width: 58px;
-  max-height: 40px;
-
+  max-width: 64px;
+  max-height: 46px;
   width: auto;
   height: auto;
-
   object-fit: contain;
-
   margin: 0;
-
   justify-self: start;
+}
+
+/* Horizontal / wide logos */
+.milestone-logo.wide-logo {
+  max-width: 82px;
+  max-height: 44px;
 }
 
 .milestone-institution {
@@ -1928,6 +1923,39 @@ main.content {
   font-weight: 700;
 
   line-height: 1.3;
+}
+
+/* ============================================================
+   Timeline Logo Size Adjustments
+   ============================================================ */
+
+/* Give very wide logos substantially more room */
+.milestone-card-header.extra-wide-header {
+  grid-template-columns: 125px minmax(0, 1fr);
+}
+
+/* Hyundai Dream Tour */
+.milestone-logo.hyundai-logo {
+  width: 120px;
+  max-width: 120px;
+  max-height: 58px;
+  object-fit: contain;
+}
+
+/* PyeongChang 2018 */
+.milestone-logo.pyeongchang-logo {
+  width: 120px;
+  max-width: 120px;
+  max-height: 62px;
+  object-fit: contain;
+}
+
+/* UCF */
+.milestone-logo.ucf-logo {
+  width: 68px;
+  max-width: 68px;
+  max-height: 50px;
+  object-fit: contain;
 }
 
 

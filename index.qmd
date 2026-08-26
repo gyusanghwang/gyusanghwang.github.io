@@ -35,6 +35,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
   <div class="milestone-heading industry">Industry</div>
 </div>
 
+
 <div class="milestone-timeline">
 
 
@@ -47,6 +48,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card academic-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/fox.png"
           alt="Temple University Fox School of Business"
@@ -55,6 +57,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           Temple University
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -90,6 +93,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card academic-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/uos.png"
           alt="University of Seoul"
@@ -98,6 +102,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           University of Seoul
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -139,6 +144,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card industry-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/hyundai-dreamtour.png"
           alt="Hyundai Dream Tour"
@@ -147,6 +153,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           Hyundai Dream Tour
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -176,6 +183,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card academic-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/khu.png"
           alt="Kyung Hee University"
@@ -184,6 +192,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           Kyung Hee University
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -211,7 +220,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
 
 
   <!-- ======================================================
-       2018 · PYEONGCHANG
+       2018 · PYEONGCHANG 2018
        ====================================================== -->
 
   <div class="milestone-row">
@@ -225,14 +234,16 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card industry-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/pyeongchang2018.png"
-          alt="PyeongChang 2018"
+          alt="PyeongChang 2018 Olympic and Paralympic Games"
           class="milestone-logo">
 
         <div class="milestone-institution">
-          PyeongChang 2018
+          Olympic & Paralympic Games Organizing Committee
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -244,7 +255,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
       </div>
 
       <div class="milestone-meta">
-        Olympic & Paralympic Games Organizing Committee
+        PyeongChang, South Korea
       </div>
 
     </div>
@@ -262,6 +273,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card academic-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/mci.png"
           alt="Management Center Innsbruck"
@@ -270,6 +282,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           Management Center Innsbruck
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -305,6 +318,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card academic-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/ucf.png"
           alt="University of Central Florida"
@@ -313,6 +327,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           University of Central Florida
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -336,6 +351,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card industry-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/disney.png"
           alt="Walt Disney World Resort"
@@ -344,6 +360,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           Walt Disney World Resort
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -379,6 +396,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
     <div class="milestone-card industry-card">
 
       <div class="milestone-card-header">
+
         <img
           src="images/logos/lee-convention.png"
           alt="LEE Convention"
@@ -387,6 +405,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
         <div class="milestone-institution">
           LEE Convention Co., Ltd.
         </div>
+
       </div>
 
       <div class="milestone-date">
@@ -407,6 +426,7 @@ I am currently seeking faculty opportunities in tourism, hospitality, and relate
 
 
 </div>
+
 ```
 
 ::::
