@@ -8,27 +8,6 @@ title: "Research"
 
 {{< include _profile.qmd >}}
 
-::: {.sidebar-research}
-
-<div class="sidebar-section-title">Research Interests</div>
-
-<div class="sidebar-research-item">
-<strong>Event Impacts</strong>
-<span>Economic · Social · Community Outcomes</span>
-</div>
-
-<div class="sidebar-research-item">
-<strong>Socio-Spatial Dynamics</strong>
-<span>Accessibility · Spatial Inequality · Public Policy</span>
-</div>
-
-<div class="sidebar-research-item">
-<strong>Digital Consumer Behavior</strong>
-<span>Online Reviews · Digital Tipping · Technology-Mediated Services</span>
-</div>
-
-:::
-
 ::::
 
 
@@ -36,324 +15,144 @@ title: "Research"
 
 # Research
 
+My research examines how interactions within tourism and hospitality systems shape **people, organizations, and places**. Planned events provide my most developed empirical setting, with complementary work examining digital platforms, service relationships, consumer behavior, and employee outcomes.
 
-## Peer-Reviewed Publication
-
-::: {.publication-entry}
-
-### Restaurant Week Paradox: From Relation to Transaction in Online Reviews
-
-<div class="publication-authors">
-Yang Yang, Qianwen Yin, <strong>Gyusang Hwang</strong>, Sai Liang, & Dejin Yang
-</div>
-
-<div class="publication-journal">
-<em>International Journal of Contemporary Hospitality Management</em>, 38(7), 2140–2160, 2026
-</div>
-
-::: {.publication-links}
-
-[DOI](https://doi.org/10.1108/IJCHM-07-2025-1124)
-
-:::
-
-:::
+I use large-scale behavioral data, econometrics, spatial analysis, experiments, and evidence synthesis to investigate how these interactions generate economic, social, spatial, organizational, and behavioral consequences.
 
 
-## Manuscripts Under Review
+## Peer-Reviewed Publications
 
 ::: {.publication-entry}
-
-### Feast or Famine: How Events Reshape Restaurant Spending
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-<em>Tourism Geographies</em> · Special Issue on AI and Big Data in Tourism
-</div>
-
-<div class="publication-status">
-4th-round revision
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
 ### When Crowds Converge: The Link between Events and Crime
 
 <div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
+<strong>Hwang, G.</strong>, & Yang, Y. (2027)
 </div>
 
 <div class="publication-journal">
-<em>Tourism Management</em>
+<em>Tourism Management</em>, 119, 105525.
+</div>
+
+<div class="publication-links">
+<a href="https://doi.org/10.1016/j.tourman.2026.105525" target="_blank">
+DOI
+</a>
+</div>
+:::
+
+
+::: {.publication-entry}
+### Feast or Famine: Asymmetric Links between Events and Restaurant Revenue
+
+<div class="publication-authors">
+<strong>Hwang, G.</strong>, & Yang, Y. (2026)
+</div>
+
+<div class="publication-journal">
+<em>Tourism Geographies</em>, 1–19.
+</div>
+
+<div class="publication-links">
+<a href="https://doi.org/10.1080/14616688.2026.2733832" target="_blank">
+DOI
+</a>
+</div>
+:::
+
+
+::: {.publication-entry}
+### Restaurant Week Paradox: From Relation to Transaction in Online Reviews
+
+<div class="publication-authors">
+Yang, Y., Yin, Q., <strong>Hwang, G.</strong>, Liang, S., & Yang, D. (2026)
+</div>
+
+<div class="publication-journal">
+<em>International Journal of Contemporary Hospitality Management</em>, 38(7), 2140–2160.
+</div>
+
+<div class="publication-links">
+<a href="https://doi.org/10.1108/IJCHM-07-2025-1124" target="_blank">
+DOI
+</a>
+</div>
+:::
+
+
+## Manuscript Under Review
+
+::: {.publication-entry}
+### Institutional Calibration: From Connoisseur to Auditor
+
+<div class="publication-authors">
+<strong>Hwang, G.</strong>, & Yang, Y.
+</div>
+
+<div class="publication-journal">
+<em>Annals of Tourism Research</em>
 </div>
 
 <div class="publication-status">
-4th-round revision
+Under Review
 </div>
-
 :::
 
+## Academic Presentations
 
-## International Conference Presentations
+### International & External Conferences
 
-::: {.publication-entry}
+**Hwang, G.** & Yang, Y. (2026). *Institutional Calibration: Why Experienced Reviewers Converge with the Consensus?* ICHRIE + West Federation Conferences, Las Vegas, NV. **Commendable Paper Award**
 
-### Institutional Calibration: Why Experienced Reviewers Converge with the Consensus?
+**Hwang, G.** & Yang, Y. (2026). *How Far Do Events Travel? Spatial Decay in Event-Driven Restaurant Revenue Spillovers.* 56th TTRA Annual Conference, Greenville, SC.
 
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
+**Hwang, G.** & Yang, Y. (2026). *Institutional Calibration: Why Experienced Reviewers Converge with the Consensus?* 2nd Workshop of Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR), Philadelphia, PA. **Best Student Paper Award**
 
-<div class="publication-journal">
-2nd Workshop of Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR) · Philadelphia, PA · 2026
-</div>
+**Hwang, G.** & Yang, Y., & Park, S. (2026). *Community Event Desert: Identifying Determinants of Cultural and Social Inequality in Community Leisure.* Academy of Leisure Science (TALS) Research and Teaching Conference, Philadelphia, PA.
 
-<div class="publication-status">
-Best Student Paper Award
-</div>
+**Hwang, G.** & Yang, Y. (2026). *Feast or Famine: A Big and Deep Data Approach to Event Impacts on Restaurant Revenue.* 31st Graduate Education & Graduate Student Research Conference in Hospitality & Tourism, Auburn, AL.
 
-:::
+**Hwang, G.** & Yang, Y., Tan, K. P. S., & Liu, Y. (2025). *Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry.* 55th TTRA Annual Conference, Galway, Ireland.
 
+**Hwang, G.** & Yang, Y. (2025). *Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry.* 2025 THEREPS Conference, Flushing, NY. **TOSOK Best Paper Award**
 
-::: {.publication-entry}
+**Hwang, G.** & Yang, Y. (2025). *When Crowds Converge: Examining the Nuanced Relationship between Planned Events and Crime.* 30th Graduate Conference, Houston, TX.
 
-### Community Event Desert: Identifying Determinants of Cultural and Social Inequality in Community Leisure
+**Hwang, G.** & Yang, Y. (2024). *Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship.* 54th TTRA Annual Conference, Burlington, VT.
 
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong>, Yang Yang, & Soyoung Park
-</div>
-
-<div class="publication-journal">
-The Academy of Leisure Science (TALS) Research and Teaching Conference · Philadelphia, PA · 2026
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Feast or Famine: A Big and Deep Data Approach to Event Impacts on Restaurant Revenue
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-31st Graduate Education & Graduate Student Research Conference in Hospitality & Tourism · Auburn, AL · 2026
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### (tip)Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong>, Yang Yang, K. P. S. Tan, & Y. Liu
-</div>
-
-<div class="publication-journal">
-55th TTRA Annual Conference · Galway, Ireland · 2025
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### (tip)Minimum Wage Policies and Employee Well-Being: Evidence from the U.S. Tourism & Hospitality Industry
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-Tourism, Hospitality, and Event Conference for Researchers, Educators, Practitioners, and Students (THEREPS) · Flushing, NY · 2025
-</div>
-
-<div class="publication-status">
-TOSOK Best Paper Award
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### When Crowds Converge: Examining the Nuanced Relationship between Planned Events and Crime
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-30th Graduate Education & Graduate Student Research Conference in Hospitality & Tourism · Houston, TX · 2025
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-54th TTRA Annual Conference · Burlington, VT · 2024
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship
-
-<div class="publication-authors">
-<strong>Gyusang Hwang</strong> & Yang Yang
-</div>
-
-<div class="publication-journal">
-22nd ApacCHRIE Conference · Seoul, South Korea · 2024
-</div>
-
-:::
-
-
-## Awards & Honors
-
-::: {.publication-entry}
-
-### Commendable Paper Award
-
-<div class="publication-journal">
-2026 ICHRIE Global Conference · Council on Hotel, Restaurant, and Institutional Education · 2026
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Best Student Paper Award
-
-<div class="publication-journal">
-2nd WIDE-HTR · Conrad N. Hilton College of Global Hospitality Leadership, University of Houston · 2026
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### TOSOK Best Paper Award
-
-<div class="publication-journal">
-2025 THEREPS · Korea America Hospitality and Tourism Educators Association (KAHTEA) · 2025
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### Special Recognition & Best Presenter
-
-<div class="publication-journal">
-Asia MICE Youth Challenge · Asian Federation of Exhibition and Convention · 2016
-</div>
-
-:::
-
-
-::: {.publication-entry}
-
-### 2nd Place Award
-
-<div class="publication-journal">
-4th Busan MICE Contents Development Contest · Busan Metropolitan City · 2014
-</div>
-
-:::
-
+**Hwang, G.** & Yang, Y. (2024). *Understanding the Social Impact of Planned Events: An Empirical Analysis on the Event-Crime Relationship.* 22nd ApacCHRIE Conference, Seoul, South Korea.
 
 ## Research Funding
 
-::: {.publication-entry}
-
+::: {.funding-entry}
 ### 2nd RAIS Symposium Seed Funding
-
-<div class="publication-authors">
-<strong>Co-PI</strong> · $600 · 2025
-</div>
-
-<div class="publication-journal">
+**Co-PI · $600 · 2025**  
 Fox School of Business, Temple University
-</div>
 
-*Deconstructing the Rippling Stadium Effect: Multi-venue Analysis of Restaurant Revenue*
-
+*Deconstructing the Rippling Stadium Effect: Multi-Venue Analysis of Restaurant Revenue*
 :::
 
-
-::: {.publication-entry}
-
+::: {.funding-entry}
 ### 1st RAIS Symposium Seed Funding
-
-<div class="publication-authors">
-<strong>Co-PI</strong> · $2,000 · 2024
-</div>
-
-<div class="publication-journal">
+**Co-PI · $2,000 · 2024**  
 Fox School of Business, Temple University
-</div>
 
 *Developing an Event Impact Index for U.S. Business Competitiveness: A Strategic Analysis of Planned Events*
-
 :::
 
-
-::: {.publication-entry}
-
+::: {.funding-entry}
 ### 27th Young Scholars Interdisciplinary Forum Seed Funding
-
-<div class="publication-authors">
-<strong>Co-PI</strong> · $1,000 · 2023
-</div>
-
-<div class="publication-journal">
+**Co-PI · $1,000 · 2023**  
 Fox School of Business, Temple University
-</div>
 
 *Which Events Are More Beneficial? Heterogeneous Effects of Planned Events on Hotel Demand*
-
 :::
 
-
-::: {.publication-entry}
-
+::: {.funding-entry}
 ### NEXT International Cultural Exchange Research Activity
-
-<div class="publication-authors">
-<strong>Co-PI</strong> · $3,000 · 2020
-</div>
-
-<div class="publication-journal">
+**Co-PI · $3,000 · 2020**  
 Korea Foundation for International Culture Exchange
-</div>
 
-*Post-Pandemic Paradigm Shifts in Domestic and International Cultural and Artistic Activities: An Examination of Artists' International Exchange Methods via Diverse Platforms*
-
+*Post-Pandemic Paradigm Shifts in Domestic and International Cultural and Artistic Activities: An Examination of Artists’ International Exchange Methods via Diverse Platforms*
 :::
 
 

@@ -15,10 +15,14 @@ title: "Teaching"
 
 # Teaching
 
-My teaching connects academic concepts with real-world decision making in tourism and hospitality. Drawing on quantitative training and industry experience, I emphasize practical application, analytical reasoning, and active student engagement.
+My teaching is guided by two principles: **build foundations students can carry beyond the classroom** and **design learning appropriate to students' stage of development**.
+
+For early-stage students, I emphasize structured opportunities to build foundational skills and work through unfamiliar problems. For more advanced students, I provide greater room for interpretation, judgment, and the defense of evidence-based decisions while maintaining clear expectations and milestones.
+
+My professional experience in events, hospitality, and business informs the problems students encounter in class, while my research training helps students move from information toward analysis, interpretation, and defensible decision-making.
 
 
-## Course Instruction
+## Teaching Experience
 
 ::: {.teaching-entry}
 
@@ -28,9 +32,9 @@ My teaching connects academic concepts with real-world decision making in touris
 School of Sport, Tourism and Hospitality Management · Temple University · Spring 2026
 </div>
 
-- Solo Instructor of Record · Face-to-face
-- Writing-intensive course
-- **Student evaluation: 4.35 / 5**
+**Instructor of Record · Writing-Intensive Course · Student Evaluation: 4.35 / 5**
+
+I used cases, discussion, and a semester marketing proposal to ask students to evaluate problems from multiple customer, organizational, and stakeholder perspectives. Students were expected not only to make recommendations, but also to justify why those recommendations were defensible.
 
 :::
 
@@ -43,30 +47,27 @@ School of Sport, Tourism and Hospitality Management · Temple University · Spri
 School of Sport, Tourism and Hospitality Management · Temple University · Fall 2025
 </div>
 
-- Solo Instructor of Record · Face-to-face
-- Applied Excel and data-analysis instruction for sport, tourism, and hospitality contexts
-- **Student evaluation: 4.55 / 5**
+**Instructor of Record · Student Evaluation: 4.55 / 5**
+
+I organized the course around how data are used in practice: cleaning and organizing information, analyzing it, interpreting results, and communicating findings. Excel functions therefore became tools for accomplishing larger analytical tasks rather than isolated commands to memorize.
 
 :::
 
 
-## Guest Lecture
+## Additional Teaching Experience
 
 ::: {.teaching-entry}
 
 ### THM 3396 · Marketing in Tourism & Hospitality Management
 
 <div class="teaching-meta">
-School of Sport, Tourism and Hospitality Management · Temple University · Fall 2025
+Temple University · Fall 2025
 </div>
 
-- Guest lecture: **Communications & Online Marketing**
-- Face-to-face
+**Guest Lecturer** · Communications & Online Marketing
 
 :::
 
-
-## Teaching Assistant Experience
 
 ::: {.teaching-entry}
 
@@ -76,7 +77,31 @@ School of Sport, Tourism and Hospitality Management · Temple University · Fall
 University of Seoul · Spring 2022
 </div>
 
-- Teaching Assistant
+**Teaching Assistant**
+
+:::
+
+
+## Teaching Areas
+
+I am prepared to contribute to undergraduate and graduate teaching in:
+
+**Event Management · Tourism & Hospitality Analytics · Marketing · Research Methods**
+
+My professional and research experience also creates opportunities to incorporate event operations, spatial and data analytics, consumer behavior, and evidence-based decision-making into these courses.
+
+
+## Teaching Recognition
+
+::: {.teaching-entry}
+
+### Student-Selected Faculty Appreciation Honoree
+
+<div class="teaching-meta">
+Temple Men's Soccer · Temple University · Fall 2025
+</div>
+
+Selected by a student-athlete for faculty appreciation through Temple University Athletics.
 
 :::
 
@@ -89,11 +114,12 @@ University of Seoul · Spring 2022
 - **Fox Online Teaching Certificate** · Fox School of Business, Temple University · 2026
 - **Teaching Academy Certificate** · Fox School of Business, Temple University · 2025
 
+
 ### Selected Training
 
 - Writing-Intensive Course Workshop Series · 2025 & 2026
 - Immersive Simulations & Gamification: Engaging Learners in the Digital Age · 2025
-- Neurodiversity: What It Is, Why It Matters, and How It Might Show Up in Your Classroom · 2025
+- Neurodiversity: What it is, Why it Matters, and How it Might Show Up in Your Classroom · 2025
 - Glazed (Over) and Confused: Sparking Student Engagement in the Classroom · 2025
 - Teaching with Zoom: New Faculty and TAs · 2025
 

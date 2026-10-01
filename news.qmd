@@ -1,0 +1,143 @@
+---
+title: "News"
+---
+
+::::: {.site-layout}
+
+:::: {.profile-column}
+
+{{< include _profile.qmd >}}
+
+::::
+
+
+:::: {.main-column}
+
+# News
+
+Selected awards, recognitions, invited activities, and professional milestones.
+
+
+## 2026
+
+::: {.news-item}
+
+<div class="news-date">2026</div>
+
+### Commendable Paper Award · ICHRIE Global Conference
+
+Received a **Commendable Paper Award** at the 2026 ICHRIE Global Conference.
+
+:::
+
+
+::: {.news-item}
+
+<div class="news-date">2026</div>
+
+### Best Student Paper Award · WIDE-HTR
+
+Received the **Best Student Paper Award** at the 2nd Workshop of Informatics, Data Science, and Economics in Hospitality and Tourism Research (WIDE-HTR).
+
+:::
+
+
+::: {.news-item}
+
+<div class="news-date">2026</div>
+
+### Invited Speaker · 56th TTRA Annual Conference
+
+Invited to participate in **Unpacking Tourism Research** at the 56th TTRA Annual Conference in Greenville, South Carolina.
+
+:::
+
+
+::: {.news-item}
+
+<div class="news-date">2026</div>
+
+### FIFA Men’s World Cup 2026
+
+Contributed to **accreditation and event operations** for the FIFA Men’s World Cup 2026.
+
+:::
+
+
+## 2025
+
+::: {.news-item}
+
+<div class="news-date">2025</div>
+
+### Student-Selected Faculty Appreciation Honoree
+
+Selected by a member of **Temple Men’s Soccer** for faculty appreciation through Temple University Athletics.
+
+:::
+
+
+::: {.news-item}
+
+<div class="news-date">2025</div>
+
+### TOSOK Best Paper Award · THEREPS
+
+Received the **TOSOK Best Paper Award** at the 2025 Tourism, Hospitality, and Event Conference for Researchers, Educators, Practitioners, and Students (THEREPS).
+
+:::
+
+
+::: {.news-item}
+
+<div class="news-date">2025</div>
+
+### Selected to Represent the Department · Ph.D. Student Research Competition
+
+Selected to represent the department at Temple University’s **15th Ph.D. Student Research Competition** in Philadelphia, Pennsylvania.
+
+:::
+
+
+## 2024
+
+::: {.news-item}
+
+<div class="news-date">2024</div>
+
+### Selected to Represent the Department · Ph.D. Student Research Competition
+
+Selected to represent the department at Temple University’s **14th Ph.D. Student Research Competition** in Philadelphia, Pennsylvania.
+
+:::
+
+
+## 2016
+
+::: {.news-item}
+
+<div class="news-date">2016</div>
+
+### Special Recognition & Best Presenter · Asia MICE Youth Challenge
+
+Received **Special Recognition and Best Presenter** at the 2016 Asia MICE Youth Challenge organized by the Asian Federation of Exhibition and Convention.
+
+:::
+
+
+## 2014
+
+::: {.news-item}
+
+<div class="news-date">2014</div>
+
+### 2nd Place Award · Busan MICE Contents Development Contest
+
+Received **2nd Place** at the 4th Busan MICE Contents Development Contest organized by Busan Metropolitan City.
+
+:::
+
+
+::::
+
+:::::

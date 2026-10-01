@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/**
+    - files/**
 
 website:
   title: "Gyusang (Kevin) Hwang"
@@ -8,6 +11,7 @@ website:
   google-analytics: "G-WBTVX0NZJL"
 
   navbar:
+    pinned: true
     background: "#9E1B34"
     foreground: "white"
     right:
@@ -17,11 +21,13 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: news.qmd
+        text: News
       - href: cv.qmd
         text: CV
 
   page-footer:
-    left: "© 2026 Gyusang (Kevin) Hwang"
+    left: "© 2026 Gyusang Hwang"
     border: true
 
 format:
