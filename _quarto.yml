@@ -4,10 +4,11 @@ project:
   resources:
     - images/**
     - files/**
+    - CNAME
 
 website:
   title: "Gyusang (Kevin) Hwang"
-  site-url: "https://gyusanghwang.github.io"
+  site-url: "https://gyusanghwang.com"
   google-analytics: "G-WBTVX0NZJL"
 
   navbar:
