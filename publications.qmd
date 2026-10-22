@@ -37,6 +37,10 @@ I use large-scale behavioral data, econometrics, spatial analysis, experiments, 
 <a href="https://doi.org/10.1016/j.tourman.2026.105525" target="_blank">
 DOI
 </a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="interactive/Dashboard_Event-Crime.html" target="_blank">
+Interactive Dashboard
+</a>
 </div>
 :::
 
@@ -56,6 +60,10 @@ DOI
 <a href="https://doi.org/10.1080/14616688.2026.2733832" target="_blank">
 DOI
 </a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="interactive/Dashboard_Event-Restaurant.html" target="_blank">
+Interactive Dashboard
+</a>
 </div>
 :::
 
@@ -74,6 +82,10 @@ Yang, Y., Yin, Q., <strong>Hwang, G.</strong>, Liang, S., & Yang, D. (2026)
 <div class="publication-links">
 <a href="https://doi.org/10.1108/IJCHM-07-2025-1124" target="_blank">
 DOI
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://uflyy.github.io/restaurant-week/" target="_blank">
+Interactive Website
 </a>
 </div>
 :::
